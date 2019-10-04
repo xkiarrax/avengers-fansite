@@ -1,3 +1,6 @@
+body {
+    color: white;
+}
 h1 {
     color: #ffffff;
     font-size: 40px;
@@ -5,13 +8,17 @@ h1 {
     text-align: center;
     }
 
+h3 {
+    color: #fff;
+}
+
 .red {
     color: red;
 }
 
 #container {
     margin: 0 auto;
-    background-color: #4b0b0b;
+    background-color: #111;
     width: 1200px;
     padding: 10px;
     height: 800px;
@@ -70,7 +77,11 @@ ul {
 
 footer {
     float: left;
-    width: 1200px;
+    width: 1160px;
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+    color: white;
 }
 
 
